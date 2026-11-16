@@ -4,11 +4,11 @@ Software engineer working across the product stack: React, Next.js and TypeScrip
 
 ## Work
 
-At [Digikala](https://www.digikala.com) (Iran's largest e-commerce company) since 2024, I work full-stack on the internal Talent and Performance Management products used by 3,000+ employees:
+At [Digikala](https://www.digikala.com) (Iran's largest e-commerce company) since 2024, I work full-stack on the internal Talent and Performance Management products used by 2,000+ employees:
 
 - **AI features:** sole backend author of an AI evaluation-summary feature (asynchronous generation through a job queue, versioned history, 383 tests) and its admin frontend; an in-editor AI assistant that suggests SBI-format feedback; evaluating LLM providers on output quality, cost, availability and reliability.
 - **Workflows end to end:** designed and built a promotion workflow with a stage engine, an append-only case history, review flows for employees, managers and committees, and an HR/ERP integration.
-- **Product frontends:** the 360-degree feedback report, the OKR experience in the user and admin panels, evaluation flows, and Persian/English dictation inside the editor.
+- **Product features:** the 360-degree feedback report, the OKR experience in the user and admin panels, evaluation flows, Persian/English dictation inside the editor, and, built on my own, the QR-code attendance feature of an employee transportation app used by thousands of warehouse staff.
 - **Frontend architecture:** contributing to the move to Next.js (App Router) and TypeScript, reusable components in a monorepo with design-system packages and Storybook, and Persian/English with full RTL/LTR layouts.
 - **Backend:** Fastify services with MongoDB, Redis and BullMQ: APIs, data models, scheduled jobs, and integrations with the HR/ERP system, Metabase and S3.
 - **Quality:** Jest, Playwright and Cypress, plus JMeter for performance testing.
