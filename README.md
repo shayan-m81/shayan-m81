@@ -1,6 +1,6 @@
 # Shayan Montazeri
 
-Software engineer in Tehran, working across the product stack: React, Next.js and TypeScript on the frontend, Node.js/Fastify services behind it, and LLM features and AI tooling on top.
+Software engineer working across the product stack: React, Next.js and TypeScript on the frontend, Node.js/Fastify services behind it, and LLM features and AI tooling on top.
 
 ## Work
 
